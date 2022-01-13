@@ -78049,6 +78049,18 @@
         "twitter": "https://twitter.com/ArtPunksNFT",
         "website": "http://artpunks.fun/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "fc46FW2p3XZu19ak4mWqi8cXdKgexNZmgBnR5F4uyRv",
+      "symbol": "NCTI",
+      "name": "NACATI",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/dekivincc/crypto-nacati/main/logo.png",
+      "tags": [
+        "NFT-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
